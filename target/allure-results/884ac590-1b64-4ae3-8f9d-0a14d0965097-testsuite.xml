@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1503336317554" stop="1503336317852" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>BaseSpec</name>
+    <labels>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

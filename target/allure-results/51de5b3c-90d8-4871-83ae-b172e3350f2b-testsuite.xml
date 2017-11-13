@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1503336322226" stop="1503336323158" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>PostTweetSpec</name>
+    <test-cases>
+        <test-case start="1503336322226" stop="1503336323158" status="passed">
+            <name>postTweetSpecification</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-GGJP3CE"/>
+                <label name="thread" value="4180@DESKTOP-GGJP3CE.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
