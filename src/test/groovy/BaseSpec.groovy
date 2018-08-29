@@ -17,11 +17,11 @@ class BaseSpec extends Specification {
 
     //please, use your Twitter credentials
     @Shared
-    def twitter = [ user: 'NikolaiMykola',
-                    consumerKey: '3du3jprCi4W0q4u941jTID2t8',
-                    consumerSecret: 'blkKpnWXXtxDOE4p5OerWrX9m1ONd0RBTpSUO2tlkzMRF9D5yw',
-                    accessToken: '849759865757159424-kNU3yZnLe5oMY1ke7YRxc0JYLtIJ9gB',
-                    secretToken: 'yUpSXty8TsVpV8OGfmrmUhhOuPEfQY4Qh0pwW1Avu9YVr' ]
+    def twitter = [ user: '',
+                    consumerKey: '',
+                    consumerSecret: '',
+                    accessToken: '',
+                    secretToken: '' ]
     @Shared
     def http
 
